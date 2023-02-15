@@ -1,4 +1,4 @@
-## 🌍 Welcome to our GitHub repository! 🌍
+## 🌍 Welcome to our GitHub repository
 
 We believe in a world without energy and water scarcity, where the sources of both have no negative effect on our children's health or the environment. We believe economic disparities must be eliminated, and that we must achieve social and environmental resilience.
 
